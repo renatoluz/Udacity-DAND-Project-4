@@ -1,0 +1,17 @@
+REFERENCES
+——————————
+
+1. White wine data set was obtained from:
+
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityWhites.csv
+
+
+2. Ordered Logistical Regression model example was obtained from:
+
+http://www.ats.ucla.edu/stat/r/dae/ologit.htm
+
+
+3. Much code was taken from the Udacity slides for Data Analyst Nanodegree: Project 4
+
+
+4. Many r coding questions (too many to list) were addressed on stackoverflow.com
